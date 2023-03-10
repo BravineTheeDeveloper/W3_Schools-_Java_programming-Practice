@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "stringConcatenation",
+      "request": "launch",
+      "mainClass": "stringConcatenation",
+      "projectName": "W3_Schools-_Java_programming-Practice_dd2e716c"
+    },
+    {
+      "type": "java",
       "name": "Strings1",
       "request": "launch",
       "mainClass": "Strings1",
