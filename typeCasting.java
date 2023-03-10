@@ -1,3 +1,5 @@
+//This program displays the skill of widening casting
+
 public class typeCasting {
   public static void main(String[] args) {
     int myInt = 9;
