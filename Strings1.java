@@ -8,3 +8,7 @@ public class Strings1 {
         System.out.println("The length of the txt string is: " + txt.length());
       }
 }
+
+//Other string methods available are {toUpperCase()} and {toLowerCase()}
+//The toUpperCase() is used to print the string contents to uppercase letters as the name suggest
+//The toLowerCase() is used to print the content of the string to lowercase letters
