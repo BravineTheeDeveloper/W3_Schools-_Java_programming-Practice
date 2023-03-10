@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Strings1",
+      "request": "launch",
+      "mainClass": "Strings1",
+      "projectName": "W3_Schools-_Java_programming-Practice_dd2e716c"
+    },
+    {
+      "type": "java",
       "name": "typeCasting",
       "request": "launch",
       "mainClass": "typeCasting",
