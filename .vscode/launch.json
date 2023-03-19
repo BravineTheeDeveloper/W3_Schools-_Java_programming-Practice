@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "PositiveNegative",
+      "request": "launch",
+      "mainClass": "PositiveNegative",
+      "projectName": "W3_Schools-_Java_programming-Practice_dd2e716c"
+    },
+    {
+      "type": "java",
       "name": "JavaBoolean",
       "request": "launch",
       "mainClass": "JavaBoolean",
