@@ -4,7 +4,7 @@ public class ConcatenationExample1 {
         String str1 = "Hello";
         String str2 = "World";
 
-        // Concatenate the two strings using the + operator
+        // Concatenate the two strings using the + (addition) operator
         String result = str1 + " " + str2;
 
         // Print the result
