@@ -3,6 +3,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "SimpleLoop",
+      "request": "launch",
+      "mainClass": "SimpleLoop",
+      "projectName": "W3_Schools-_Java_programming-Practice_dd2e716c"
+    },
+    {
+      "type": "java",
+      "name": "simplewhileLoop",
+      "request": "launch",
+      "mainClass": "simplewhileLoop",
+      "projectName": "W3_Schools-_Java_programming-Practice_dd2e716c"
+    },
+    {
+      "type": "java",
+      "name": "ifElse",
+      "request": "launch",
+      "mainClass": "ifElse",
+      "projectName": "W3_Schools-_Java_programming-Practice_dd2e716c"
+    },
+    {
+      "type": "java",
+      "name": "whileLoop",
+      "request": "launch",
+      "mainClass": "whileLoop",
+      "projectName": "W3_Schools-_Java_programming-Practice_dd2e716c"
+    },
+    {
+      "type": "java",
       "name": "JavaSwitch2",
       "request": "launch",
       "mainClass": "JavaSwitch2",
