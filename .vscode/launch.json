@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "forLoop",
+      "request": "launch",
+      "mainClass": "forLoop",
+      "projectName": "W3_Schools-_Java_programming-Practice_dd2e716c"
+    },
+    {
+      "type": "java",
       "name": "SimpleLoop",
       "request": "launch",
       "mainClass": "SimpleLoop",
