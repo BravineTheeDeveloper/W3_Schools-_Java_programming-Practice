@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "JavaSwitch",
+      "request": "launch",
+      "mainClass": "JavaSwitch",
+      "projectName": "W3_Schools-_Java_programming-Practice_dd2e716c"
+    },
+    {
+      "type": "java",
       "name": "ShortHandIsElse",
       "request": "launch",
       "mainClass": "ShortHandIsElse",
