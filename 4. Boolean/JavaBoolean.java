@@ -13,23 +13,24 @@ import java.util.Scanner; //Import the Scanner class from the java.util package
 
 public class JavaBoolean{
     public static void main(String [] args){   //Declare a public main method that takes an array of strings as arguments
-        Scanner input = new Scanner(System.in);//Create a Scanner object called "input" that reads from the standard input stream
-        System.out.println("Enter your name :");
-        String myName = input.nextLine();
+        try (Scanner input = new Scanner(System.in)) {
+            System.out.println("Enter your name :");
+            String myName = input.nextLine();
 
-        System.out.print("Enter your age: ");
-        int myAge = input.nextInt();//Read an integer value entered by the user using the Scanner object and store it in a variable called "age"
+            System.out.print("Enter your age: ");
+            int myAge = input.nextInt();//Read an integer value entered by the user using the Scanner object and store it in a variable called "age"
 
-        int votingAge = 18;
+            int votingAge = 18;
 
-        String message = myName + ", ";
+            String message = myName + ", ";
 
-        if (myAge >= votingAge){
-            message += "You are old enough to vote!";
-        }else{
-            message += "You are not old enough to vote!";
+            if (myAge >= votingAge){
+                message += "You are old enough to vote!";
+            }else{
+                message += "You are not old enough to vote!";
+            }
+            System.out.println(message);
         }
-        System.out.println(message);
 
     }
 }
