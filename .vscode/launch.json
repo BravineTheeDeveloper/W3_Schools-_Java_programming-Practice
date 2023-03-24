@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ShortHandIsElse",
+      "request": "launch",
+      "mainClass": "ShortHandIsElse",
+      "projectName": "W3_Schools-_Java_programming-Practice_dd2e716c"
+    },
+    {
+      "type": "java",
       "name": "ConcatenationExample2",
       "request": "launch",
       "mainClass": "ConcatenationExample2",
