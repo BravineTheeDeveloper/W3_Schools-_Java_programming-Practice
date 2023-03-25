@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "SimpleContinue",
+      "request": "launch",
+      "mainClass": "SimpleContinue",
+      "projectName": "W3_Schools-_Java_programming-Practice_dd2e716c"
+    },
+    {
+      "type": "java",
       "name": "Break",
       "request": "launch",
       "mainClass": "Break",
