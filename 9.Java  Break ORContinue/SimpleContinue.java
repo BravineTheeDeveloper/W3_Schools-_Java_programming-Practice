@@ -13,3 +13,16 @@ public class SimpleContinue {
       }
     }
 }
+
+//The above code is applied when suing a for loop
+//If one is to use a while loop the one bellow would work
+/**
+ * int i = 0;
+while (i < 10) {
+  System.out.println(i);
+  i++;
+  if (i == 4) {
+    break;
+  }
+}
+ */
