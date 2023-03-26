@@ -12,3 +12,9 @@ public class LoopArrays {
         }
     }
 }
+
+/**
+ * for (String i : cars)
+ * The example above can be read like this: for each String element (called i - as in index) in cars,
+ * print out the value of i.
+ */
