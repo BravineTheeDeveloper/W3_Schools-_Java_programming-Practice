@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "LoopArrays",
+      "request": "launch",
+      "mainClass": "LoopArrays",
+      "projectName": "W3_Schools-_Java_programming-Practice_dd2e716c"
+    },
+    {
+      "type": "java",
       "name": "ArraysIntro",
       "request": "launch",
       "mainClass": "ArraysIntro",
