@@ -40,6 +40,7 @@
   ],
   "java.debug.settings.onBuildFailureProceed": true,
   "java.project.sourcePaths": [
-    "9.Java  Break ORContinue"
+    "9.Java  Break ORContinue",
+    "10. Arrays"
   ]
 }
