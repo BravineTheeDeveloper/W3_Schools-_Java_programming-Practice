@@ -23,3 +23,8 @@ public class ArraysIntro{
         System.out.println(pals.length);
     }
 }
+
+/**
+ * To print a specific pal of the four above, we rewrite the program this way:
+ *         "System.out.println(pals[0 or 1 or 2 or 3])"
+ */
