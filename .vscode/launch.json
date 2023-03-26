@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Multidimensional",
+      "request": "launch",
+      "mainClass": "Multidimensional",
+      "projectName": "W3_Schools-_Java_programming-Practice_dd2e716c"
+    },
+    {
+      "type": "java",
       "name": "LoopArrays",
       "request": "launch",
       "mainClass": "LoopArrays",
