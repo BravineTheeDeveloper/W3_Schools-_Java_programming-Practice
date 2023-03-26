@@ -13,6 +13,7 @@ public class SimpleBreak {
     }
 }
 
+//Take a look at the code below
 //The above code is applied when suing a for loop
 //If one is to use a while loop the one bellow would work
 /**
