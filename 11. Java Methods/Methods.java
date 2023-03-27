@@ -3,6 +3,7 @@
  * A method must be declared within a class. It is defined with the name of the method,
  * followed by parentheses ().
  */
+
 public class Methods {
     static void myMethod() {
       System.out.println("My name is Alison!");
