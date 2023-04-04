@@ -13,8 +13,7 @@ public class Methods {
       myMethod();
       myMethod();
       myMethod();
-      myMethod();
-      myMethod();
+
 
     }
  }
