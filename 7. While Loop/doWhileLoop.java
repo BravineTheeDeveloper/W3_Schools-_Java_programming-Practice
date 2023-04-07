@@ -1,4 +1,6 @@
 /**
+ * THE DO WHILE LOOP
+ *
  * This program demonstrates a simple use of the "do while loop"
  * The do/while loop is a variant of the while loop
  * This loop will execute the code block once,
